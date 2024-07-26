@@ -1,0 +1,49 @@
+class AppImages {
+  static const String noInternet = 'assets/lotties/no-internet.json';
+  static const String noSignalnoInternet =
+      'assets/lotties/not-signal-no-internet.json';
+  static const String vpnProtection = 'assets/lotties/vpn-protection.json';
+  static const String phoneProtection = 'assets/lotties/phone-protection.json';
+  static const String placeholder = 'assets/images/placeholder_1x1.png';
+  static const String homeBackground = 'assets/images/home_bg.png';
+  static const String home = 'assets/images/home.png';
+  static const String statistics = 'assets/images/statistics.png';
+  static const String subscriptions = 'assets/images/subscriptions.png';
+  static const String profile = 'assets/images/profile.png';
+  static const String playBtn = 'assets/images/play_btn.png';
+  static const String splash = 'assets/images/splash.png';
+  static const String onboarding_1 = 'assets/images/onboarding-1.svg';
+  static const String onboarding_2 = 'assets/images/onboarding-2.svg';
+  static const String onboarding_3 = 'assets/images/onboarding-3.svg';
+  static const String arrowLeft = 'assets/images/arrow_left.png';
+  static const String appLogo = 'assets/images/app_logo.svg';
+  static const String appLogo2 = 'assets/images/app_logo_2.svg';
+  static const String settings = 'assets/images/settings.svg';
+  static const String notification = 'assets/images/notification-bing.svg';
+  static const String filter = 'assets/images/filter.svg';
+  static const String search = 'assets/images/search.svg';
+  static const String teacher1 = 'assets/images/teacher1.jpeg';
+  static const String teacher2 = 'assets/images/teacher2.jpeg';
+  static const String teacher3 = 'assets/images/teacher3.jpeg';
+  static const String clock = 'assets/images/clock.svg';
+  static const String qrcode = 'assets/images/qrcode.svg';
+  static const String female = 'assets/images/female.png';
+  static const String male = 'assets/images/male.png';
+  static const String edit = 'assets/images/edit.png';
+  static const String courseDetailsBg = 'assets/images/course_details_bg.png';
+  static const String coupon = 'assets/images/coupon.png';
+  static const String warning = 'assets/images/warning.png';
+  static const String ccImg = 'assets/images/cc_img.png';
+  static const String ccImgDark = 'assets/images/cc_img_dark.png';
+  static const String lock = 'assets/images/lock_icon.png';
+  static const String document = 'assets/images/document.png';
+  static const String logout = 'assets/images/outline-logout.png';
+  static const String empty = 'assets/images/empty.svg';
+  static const String send = 'assets/images/send.png';
+  static const String soon = 'assets/images/coming-soon.png';
+  static const String wallet = 'assets/images/wallet.png';
+  static const String fawry = 'assets/images/fawry.jpeg';
+  static const String chatEmptyBackground =
+      'assets/images/chat_empty_background.png';
+  static const String homework = 'assets/images/homework.png';
+}

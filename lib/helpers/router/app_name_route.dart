@@ -1,0 +1,31 @@
+class AppNameRoute {
+  static const splashScreen = '/';
+  static const homeScreen = '/homeScreen';
+  static const onboardingScreen = '/onboardingScreen';
+  static const signUpScreen = '/signUpScreen';
+  static const controllerScreen = '/controllerScreen';
+  static const theLessonScreen = '/theLessonScreen';
+  static const lessonDetailsScreen = '/lessonDetailsScreen';
+  static const signInScreen = '/signInScreen';
+  static const forgotPasswordScreen = '/forgotPasswordScreen';
+  static const changePasswordScreen = '/changePasswordScreen';
+  static const otpScreen = '/otpScreen';
+  static const errorScreen = '/errorScreen';
+  static const mySubscriptionScreen = '/mySubscriptionScreen';
+  static const profileScreen = '/profileScreen';
+  static const profileEditScreen = '/profileEditScreen';
+  static const myStatisticsScreen = '/myStatisticsScreen';
+  static const courseDetailsScreen = '/courseDetailsScreen';
+  static const buyCourseScreen = '/buyCourseScreen';
+  static const purchaseInvoiceScreen = '/purchaseInvoiceScreen';
+  static const courseContentScreen = '/courseContentScreen';
+  static const examQuestionsScreen = '/examQuestionsScreen';
+  static const homeWorkQuestionsScreen = '/homeWorkQuestionsScreen';
+  static const homeWorkScoreScreen = '/homeWorkScoreScreen';
+  static const examScoreScreen = '/examScoreScreen';
+  static const changeLangScreen = '/changeLangScreen';
+  static const allCoursesScreen = '/allCoursesScreen';
+  static const searchScreen = '/searchScreen';
+  static const chatScreen = '/chatScreen';
+  static const tempSpalshScreen = '/TempSpalshScreen';
+}

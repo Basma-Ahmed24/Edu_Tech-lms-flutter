@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "196260310907",
+    "project_id": "mark-templete",
+    "storage_bucket": "mark-templete.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196260310907:android:4e27d0d5f731c0b00517de",
+        "android_client_info": {
+          "package_name": "com.aisevenp.mark"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNmJZ35HADJgMpGNJ138FYvMy717ZGn5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
